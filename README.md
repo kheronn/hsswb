@@ -1,27 +1,20 @@
-# Hsswb
+# Hospital São Sebastião 
+## Wenceslau Braz
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+Repositório do projeto Web reformulado para a instituição hospital de caridade São Sebastião de Wenceslau Braz
 
-## Development server
+A construção inicial do site nasceu de uma parceria entre o Hospital São Sebastião e o Colégio Estadual Dr. Sebastião Paraná.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Sob a coordenação do Prof. [Me. Kheronn](http://lattes.cnpq.br/1576439369114687 "Me. Kheronn"), os alunos do 4º de Informática Integrado (**2016**) participaram do desenvolvimento de todo o Projeto Web da instituição.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Proposta de Reformulação do Layot / Linguagem
+![](https://firebasestorage.googleapis.com/v0/b/hsswb-edb2b.appspot.com/o/images%2Fhsswb.PNG?alt=media&token=3979d8aa-638d-4c2e-81e6-cfcf3168bb60)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## A primeira versão (2016)
+http://www.hsswb.com.br/projeto/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![](https://firebasestorage.googleapis.com/v0/b/hsswb-edb2b.appspot.com/o/images%2Fhsswb_old.PNG?alt=media&token=6eff59eb-31a0-4bc9-9ac2-b6f4b5c6cf03)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
